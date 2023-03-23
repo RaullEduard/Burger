@@ -49,3 +49,7 @@ img {
     display: flex;
     justify-content: center;
 }
+
+.BurgerImage:hover {
+    transform: scale(1.25);
+}
